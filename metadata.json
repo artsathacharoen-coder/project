@@ -1,0 +1,6 @@
+{
+  "name": "MPN Project - Spesialis Cleanroom & Lantai ESD",
+  "description": "Kontraktor & Supplier Resmi Sandwich Panel Cleanroom & Lantai Antistatik ESD standar cGMP & ISO 14644 di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
